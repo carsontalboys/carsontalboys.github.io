@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/carsontalboys/carsontalboys.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Carson Talboys, a sophomore Accouting major at Catawba College. I am minoring in Information Systems and Business Administration also. I play on the Men's Soccer team here, so I am very busy here with all the classes and activities I am involved in.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
